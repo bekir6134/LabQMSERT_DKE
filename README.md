@@ -1,0 +1,1 @@
+Sertifikalar aşamasında işlemi yapınca kod çalışıyor ama başka sayfaya gidip gelince yapılan işlem görünüyor yani imzala yapıyorum imzalandı kısmına gitmasi gerekiyor sertifikaların ama ben başka sayfaya gidip gelince imzalandı tarafına gidiyor.
